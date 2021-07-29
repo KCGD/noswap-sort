@@ -1,6 +1,6 @@
 {
   "name": "noswap-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and extremly fast sorting algorithm that takes advantage of javascript's array functionality",
   "main": "main.js",
   "scripts": {

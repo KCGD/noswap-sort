@@ -14,13 +14,11 @@ npm i noswap-sort
 ## Usage
 
 ```python
-nsort = require('noswap-sort');
+const nsort = require('noswap-sort');
 
 var list = [5, 2, 1000, 20 1];
 
 list = nsort(list);
-
-//list = [1, 2, 5, 20, 1000]
 ```
 
 ## Contributing
